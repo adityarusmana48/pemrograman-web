@@ -16,6 +16,7 @@ if (isset($_GET['id'])) {
         die("gagal menghapus...");
     }
 } else {
+    
     die("akses dilarang...");
 }
 ?>

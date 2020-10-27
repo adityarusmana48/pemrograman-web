@@ -18,6 +18,7 @@ if (isset($_POST['kodemk'])) {
     } else {
         die("Location: listmatakuliah.php?status=gagal");
     }
+    
 } else {
     die("Akses dilarang...");
 }

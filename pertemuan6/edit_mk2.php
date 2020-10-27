@@ -52,6 +52,7 @@
         $_sks = "";
         $_kodemk = "";
     }  
+    
     ?>
     <div class="container">
         <h2>Pendaftaran Mata Kuliah versi 2 (dg Modal)</h2>   

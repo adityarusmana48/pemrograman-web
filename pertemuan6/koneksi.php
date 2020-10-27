@@ -10,4 +10,5 @@ $conn = mysqli_connect($namaServer, $username, $password, $namaDB);
 if (!$conn) {
     die("Koneksi Gagal");
 }
+
 ?>
